@@ -1,244 +1,244 @@
- United Arab Emirates,Abu Dhabi
- Nigeria,Abuja
- Ghana,Accra
- Pitcairn Islands,Adamstown
- Ethiopia,Addis Ababa
- Algeria,Algiers
- Niue,Alofi
- Jordan,Amman
- Netherlands,Amsterdam
- Andorra,Andorra la Vella
- Turkey,Ankara
- Madagascar,Antananarivo
- Samoa,Apia
- Turkmenistan,Ashgabat
- Eritrea,Asmara
- Kazakhstan,Astana
- Paraguay,Asunción
- Greece,Athens
- Cook Islands,Avarua
- Iraq,Baghdad
- Azerbaijan,Baku
- Mali,Bamako
- Brunei,Bandar Seri Begawan
- Thailand,Bangkok
- Central African Republic,Bangui
- Gambia,Banjul
- Saint Kitts and Nevis,Basseterre
- China,Beijing
- Lebanon,Beirut
- Serbia,Belgrade
- Belize,Belmopan
- Germany,Berlin
- Switzerland,Bern
- Kyrgyzstan,Bishkek
- Guinea-Bissau,Bissau
- Colombia,Bogotá
- Brazil,Brasília
- Slovakia,Bratislava
- Republic of the Congo,Brazzaville
- Barbados,Bridgetown
- Belgium,Brussels
- Romania,Bucharest
- Hungary,Budapest
- Argentina,Buenos Aires
- Burundi,Bujumbura
- Egypt,Cairo
- Australia,Canberra
- Venezuela,Caracas
- Saint Lucia,Castries
- French Guiana,Cayenne
- United States Virgin Islands,Charlotte Amalie
- Moldova,Chisinau
- Turks and Caicos Islands,Cockburn Town
- Guinea,Conakry
- Denmark,Copenhagen
- Senegal,Dakar
- Syria,Damascus
- Bangladesh,Dhaka
- East Timor (Timor-Leste),Dili
- Djibouti,Djibouti
- Tanzania,Dodoma
- Qatar,Doha
- Isle of Man,Douglas
- Ireland,Dublin
- Tajikistan,Dushanbe
- Tristan da Cunha,Edinburgh of the Seven Seas
- Sahrawi Arab Democratic Republic ,El Aaiún
- Akrotiri and Dhekelia,Episkopi Cantonment
- Christmas Island,Flying Fish Cove
- Sierra Leone,Freetown
- Tuvalu,Funafuti
- Botswana,Gaborone
- Cayman Islands,George Town
- Ascension Island,Georgetown
- Guyana,Georgetown
- Gibraltar,Gibraltar
- South Georgia and the South Sandwich Islands,Grytviken
- Guatemala,Guatemala City
- Saint Barthélemy,Gustavia
- Guam,Hagåtña
- Bermuda,Hamilton
- Easter Island,Hanga Roa
- Vietnam,Hanoi
- Zimbabwe,Harare
- Somaliland,Hargeisa
- Cuba,Havana
- Finland,Helsinki
- Solomon Islands,Honiara
- Pakistan,Islamabad
- Indonesia,Jakarta
- Saint Helena,Jamestown
- Israel,Tel Aviv
- State of Palestine,Jerusalem
- South Sudan,Juba
- Afghanistan,Kabul
- Uganda,Kampala
- Nepal,Kathmandu
- Sudan,Khartoum
- Ukraine,Kiev
- Rwanda,Kigali
- Jamaica,Kingston
- Norfolk Island,Kingston
- Saint Vincent and the Grenadines,Kingstown
- Democratic Republic of the Congo,Kinshasa
- Malaysia,Kuala Lumpur
- Kuwait,Kuwait City
- Gabon,Libreville
- Malawi,Lilongwe
- Peru,Lima
- Portugal,Lisbon
- Slovenia,Ljubljana
- Togo,Lomé
- United Kingdom,London
- Angola,Luanda
- Zambia,Lusaka
- Luxembourg,Luxembourg
- Spain,Madrid
- Marshall Islands,Majuro
- Equatorial Guinea,Malabo
- Maldives,Malé
- Nicaragua,Managua
- Bahrain,Manama
- Philippines,Manila
- Mozambique,Maputo
- Saint Martin,Marigot
- Lesotho,Maseru
- Wallis and Futuna,Mata-Utu
- Swaziland,Lobamba
- Palau,Melekeok 
- Mexico,Mexico City
- Belarus,Minsk
- Somalia,Mogadishu
- Monaco,Monaco
- Liberia,Monrovia
- Uruguay,Montevideo
- Comoros,Moroni
- Russia,Moscow
- Oman,Muscat
- Kenya,Nairobi
- Bahamas,Nassau
- Burma,Naypyidaw
- Chad,N'Djamena
- India,New Delhi
- Niger,Niamey
- Cyprus,Nicosia
- Northern Cyprus,Nicosia
- Mauritania,Nouakchott
- New Caledonia,Nouméa
- Tonga,Nuku?alofa
- Greenland,Nuuk
- Aruba,Oranjestad
- Norway,Oslo
- Canada,Ottawa
- Burkina Faso,Ouagadougou
- American Samoa,Pago Pago
- Federated States of Micronesia,Palikir
- Panama,Panama City
- French Polynesia,Papeete
- Suriname,Paramaribo
- France,Paris
- Sint Maarten,Philipsburg
- Cambodia,Phnom Penh
- Montserrat,Plymouth
- Montenegro,Podgorica
- Mauritius,Port Louis
- Papua New Guinea,Port Moresby
- Vanuatu,Port Vila
- Haiti,Port-au-Prince
- Trinidad and Tobago,Port of Spain
- Benin,Porto-Novo
- Czech Republic,Prague
- Cape Verde,Praia
- South Africa,Pretoria
- Kosovo,Pristina
- North Korea,Pyongyang
- Ecuador,Quito
- Morocco,Rabat
- Iceland,Reykjavík
- Latvia,Riga
- Saudi Arabia,Riyadh
- British Virgin Islands,Road Town
- Italy,Rome
- Dominica,Roseau
- Northern Mariana Islands,Saipan
- Costa Rica,San José
- Puerto Rico,San Juan
- San Marino,San Marino
- El Salvador,San Salvador
- Yemen,Sana'a
- Chile,Santiago
- Dominican Republic,Santo Domingo
- São Tomé and Príncipe,São Tomé
- Bosnia and Herzegovina,Sarajevo
- South Korea,Seoul
- Singapore,Singapore
- Macedonia,Skopje
- Bulgaria,Sofia
- Sri Lanka,Sri Jayawardenepura Kotte
- Grenada,St. George's
- Jersey,St. Helier
- Antigua and Barbuda,St. John's
- Guernsey,St. Peter Port
- Saint Pierre and Miquelon,St. Pierre
- Falkland Islands,Stanley
- Nagorno-Karabakh Republic,Stepanakert
- Sweden,Stockholm
- Bolivia,Sucre
- Abkhazia,Sukhumi
- Fiji,Suva
- Taiwan,Taipei
- Estonia,Tallinn
- Kiribati,Tarawa
- Uzbekistan,Tashkent
- Georgia,Tbilisi
- Honduras,Tegucigalpa
- Iran,Tehran
- Bhutan,Thimphu
- Albania,Tirana
- Transnistria,Tiraspol
- Japan,Tokyo
- Faroe Islands,Tórshavn
- Libya,Tripoli
- South Ossetia,Tskhinvali
- Tunisia,Tunis
- Mongolia,Ulan Bator
- Liechtenstein,Vaduz
- Malta,Valletta
- Anguilla,The Valley
- Vatican City,Vatican City
- Seychelles,Victoria
- Austria,Vienna
- Laos,Vientiane
- Lithuania,Vilnius
- Poland,Warsaw
- United States,Washington D.C.
- New Zealand,Wellington
- Cocos (Keeling) Islands,West Island
- Curaçao,Willemstad
- Namibia,Windhoek
- Ivory Coast,Yamoussoukro
- Cameroon,Yaoundé
- Nauru,Yaren
- Armenia,Yerevan
- Croatia,Zagreb
+United Arab Emirates,Abu Dhabi
+Nigeria,Abuj
+Ghana,Accra
+Pitcairn Islands,Adamstown
+Ethiopia,Addis Ababa
+Algeria,Algiers
+Niue,Alofi
+Jordan,Amman
+Netherlands,Amsterdam
+Andorra,Andorra la Vella
+Turkey,Ankara
+Madagascar,Antananarivo
+Samoa,Apia
+Turkmenistan,Ashgabat
+Eritrea,Asmara
+Kazakhstan,Astana
+Paraguay,Asuncion
+Greece,Athens
+Cook Islands,Avarua
+Iraq,Baghdad
+Azerbaijan,Baku
+Mali,Bamako
+Brunei,Bandar Seri Begawan
+Thailand,Bangkok
+Central African Republic,Bangui
+Gambia,Banjul
+Saint Kitts and Nevis,Basseterre
+China,Beijing
+Lebanon,Beirut
+Serbia,Belgrade
+Belize,Belmopan
+Germany,Berlin
+Switzerland,Bern
+Kyrgyzstan,Bishkek
+Guinea-Bissau,Bissau
+Colombia,Bogotï¿½
+Brazil,Brasï¿½lia
+Slovakia,Bratislava
+Republic of the Congo,Brazzaville
+Barbados,Bridgetown
+Belgium,Brussels
+Romania,Bucharest
+Hungary,Budapest
+Argentina,Buenos Aires
+Burundi,Bujumbura
+Egypt,Cairo
+Australia,Canberra
+Venezuela,Caracas
+Saint Lucia,Castries
+French Guiana,Cayenne
+United States Virgin Islands,Charlotte Amalie
+Moldova,Chisinau
+Turks and Caicos Islands,Cockburn Town
+Guinea,Conakry
+Denmark,Copenhagen
+Senegal,Dakar
+Syria,Damascus
+Bangladesh,Dhaka
+East Timor (Timor-Leste),Dili
+Djibouti,Djibouti
+Tanzania,Dodoma
+Qatar,Doha
+Isle of Man,Douglas
+Ireland,Dublin
+Tajikistan,Dushanbe
+Tristan da Cunha,Edinburgh of the Seven Seas
+Sahrawi Arab Democratic Republicï¿½,El Aaiï¿½n
+Akrotiri and Dhekelia,Episkopi Cantonment
+Christmas Island,Flying Fish Cove
+Sierra Leone,Freetown
+Tuvalu,Funafuti
+Botswana,Gaborone
+ï¿½Cayman Islands,George Town
+ï¿½Ascension Island,Georgetown
+ï¿½Guyana,Georgetown
+ï¿½Gibraltar,Gibraltar
+ï¿½South Georgia and the South Sandwich Islands,Grytviken
+ï¿½Guatemala,Guatemala City
+ï¿½Saint Barthï¿½lemy,Gustavia
+ï¿½Guam,Hagï¿½tï¿½a
+ï¿½Bermuda,Hamilton
+ï¿½Easter Island,Hanga Roa
+ï¿½Vietnam,Hanoi
+ï¿½Zimbabwe,Harare
+ï¿½Somaliland,Hargeisa
+ï¿½Cuba,Havana
+ï¿½Finland,Helsinki
+ï¿½Solomon Islands,Honiara
+ï¿½Pakistan,Islamabad
+ï¿½Indonesia,Jakarta
+ï¿½Saint Helena,Jamestown
+ï¿½Israel,Tel Aviv
+ï¿½State of Palestine,Jerusalem
+ï¿½South Sudan,Juba
+ï¿½Afghanistan,Kabul
+ï¿½Uganda,Kampala
+ï¿½Nepal,Kathmandu
+ï¿½Sudan,Khartoum
+ï¿½Ukraine,Kiev
+ï¿½Rwanda,Kigali
+ï¿½Jamaica,Kingston
+ï¿½Norfolk Island,Kingston
+ï¿½Saint Vincent and the Grenadines,Kingstown
+ï¿½Democratic Republic of the Congo,Kinshasa
+ï¿½Malaysia,Kuala Lumpur
+ï¿½Kuwait,Kuwait City
+ï¿½Gabon,Libreville
+ï¿½Malawi,Lilongwe
+ï¿½Peru,Lima
+ï¿½Portugal,Lisbon
+ï¿½Slovenia,Ljubljana
+ï¿½Togo,Lomï¿½
+ï¿½United Kingdom,London
+ï¿½Angola,Luanda
+ï¿½Zambia,Lusaka
+ï¿½Luxembourg,Luxembourg
+ï¿½Spain,Madrid
+ï¿½Marshall Islands,Majuro
+ï¿½Equatorial Guinea,Malabo
+ï¿½Maldives,Malï¿½
+ï¿½Nicaragua,Managua
+ï¿½Bahrain,Manama
+ï¿½Philippines,Manila
+ï¿½Mozambique,Maputo
+ï¿½Saint Martin,Marigot
+ï¿½Lesotho,Maseru
+ï¿½Wallis and Futuna,Mata-Utu
+ï¿½Swaziland,Lobamba
+ï¿½Palau,Melekeok 
+ï¿½Mexico,Mexico City
+ï¿½Belarus,Minsk
+ï¿½Somalia,Mogadishu
+ï¿½Monaco,Monaco
+ï¿½Liberia,Monrovia
+ï¿½Uruguay,Montevideo
+ï¿½Comoros,Moroni
+ï¿½Russia,Moscow
+ï¿½Oman,Muscat
+ï¿½Kenya,Nairobi
+ï¿½Bahamas,Nassau
+ï¿½Burma,Naypyidaw
+ï¿½Chad,N'Djamena
+ï¿½India,New Delhi
+ï¿½Niger,Niamey
+ï¿½Cyprus,Nicosia
+ï¿½Northern Cyprus,Nicosia
+ï¿½Mauritania,Nouakchott
+ï¿½New Caledonia,Noumï¿½a
+ï¿½Tonga,Nuku?alofa
+ï¿½Greenland,Nuuk
+ï¿½Aruba,Oranjestad
+ï¿½Norway,Oslo
+ï¿½Canada,Ottawa
+ï¿½Burkina Faso,Ouagadougou
+ï¿½American Samoa,Pago Pago
+ï¿½Federated States of Micronesia,Palikir
+ï¿½Panama,Panama City
+ï¿½French Polynesia,Papeete
+ï¿½Suriname,Paramaribo
+ï¿½France,Paris
+ï¿½Sint Maarten,Philipsburg
+ï¿½Cambodia,Phnom Penh
+ï¿½Montserrat,Plymouth
+ï¿½Montenegro,Podgorica
+ï¿½Mauritius,Port Louis
+ï¿½Papua New Guinea,Port Moresby
+ï¿½Vanuatu,Port Vila
+ï¿½Haiti,Port-au-Prince
+ï¿½Trinidad and Tobago,Port of Spain
+ï¿½Benin,Porto-Novo
+ï¿½Czech Republic,Prague
+ï¿½Cape Verde,Praia
+ï¿½South Africa,Pretoria
+ï¿½Kosovo,Pristina
+ï¿½North Korea,Pyongyang
+ï¿½Ecuador,Quito
+ï¿½Morocco,Rabat
+ï¿½Iceland,Reykjavï¿½k
+ï¿½Latvia,Riga
+ï¿½Saudi Arabia,Riyadh
+ï¿½British Virgin Islands,Road Town
+ï¿½Italy,Rome
+ï¿½Dominica,Roseau
+ï¿½Northern Mariana Islands,Saipan
+ï¿½Costa Rica,San Josï¿½
+ï¿½Puerto Rico,San Juan
+ï¿½San Marino,San Marino
+ï¿½El Salvador,San Salvador
+ï¿½Yemen,Sana'a
+ï¿½Chile,Santiago
+ï¿½Dominican Republic,Santo Domingo
+ï¿½Sï¿½o Tomï¿½ and Prï¿½ncipe,Sï¿½o Tomï¿½
+ï¿½Bosnia and Herzegovina,Sarajevo
+ï¿½South Korea,Seoul
+ï¿½Singapore,Singapore
+ï¿½Macedonia,Skopje
+ï¿½Bulgaria,Sofia
+ï¿½Sri Lanka,Sri Jayawardenepura Kotte
+ï¿½Grenada,St. George's
+ï¿½Jersey,St. Helier
+ï¿½Antigua and Barbuda,St. John's
+ï¿½Guernsey,St. Peter Port
+ï¿½Saint Pierre and Miquelon,St. Pierre
+ï¿½Falkland Islands,Stanley
+ï¿½Nagorno-Karabakh Republic,Stepanakert
+ï¿½Sweden,Stockholm
+ï¿½Bolivia,Sucre
+ï¿½Abkhazia,Sukhumi
+ï¿½Fiji,Suva
+ï¿½Taiwan,Taipei
+ï¿½Estonia,Tallinn
+ï¿½Kiribati,Tarawa
+ï¿½Uzbekistan,Tashkent
+ï¿½Georgia,Tbilisi
+ï¿½Honduras,Tegucigalpa
+ï¿½Iran,Tehran
+ï¿½Bhutan,Thimphu
+ï¿½Albania,Tirana
+ï¿½Transnistria,Tiraspol
+ï¿½Japan,Tokyo
+ï¿½Faroe Islands,Tï¿½rshavn
+ï¿½Libya,Tripoli
+ï¿½South Ossetia,Tskhinvali
+ï¿½Tunisia,Tunis
+ï¿½Mongolia,Ulan Bator
+ï¿½Liechtenstein,Vaduz
+ï¿½Malta,Valletta
+ï¿½Anguilla,The Valley
+ï¿½Vatican City,Vatican City
+ï¿½Seychelles,Victoria
+ï¿½Austria,Vienna
+ï¿½Laos,Vientiane
+ï¿½Lithuania,Vilnius
+ï¿½Poland,Warsaw
+ï¿½United States,Washington D.C.
+ï¿½New Zealand,Wellington
+ï¿½Cocos (Keeling) Islands,West Island
+ï¿½Curaï¿½ao,Willemstad
+ï¿½Namibia,Windhoek
+ï¿½Ivory Coast,Yamoussoukro
+ï¿½Cameroon,Yaoundï¿½
+ï¿½Nauru,Yaren
+ï¿½Armenia,Yerevan
+ï¿½Croatia,Zagreb

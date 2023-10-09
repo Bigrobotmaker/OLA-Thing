@@ -3,6 +3,6 @@ jeff = False
 try:
     while jeff == False:
         Value = int(number)
-except KeyboardInterrupt:
+except ValueError:
     Value = 0
 print(Value)

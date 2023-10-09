@@ -20,8 +20,12 @@
 #    if 'oe' in line:
 #        print(line.strip())
 
-f = open('sowpods.txt')
-substr = input('what substring would you like to search ')
-for line in f:
-    if substr in line:
-        print(line.strip())
+# f = open('sowpods.txt')
+# substr = input('what substring would you like to search ')
+# for line in f:
+#     if substr in line:
+#         print(line.strip())
+
+import random
+f = open('countriescapitals.txt')
+r = random.randint(0,len)
