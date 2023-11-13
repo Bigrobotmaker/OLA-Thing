@@ -21,7 +21,7 @@ while questions < 10:
     elif ans == 'pass' and passes < 5:
         print('it was', i[1])
         passes = passes + 1
-        print('you have used', passes, 'out of five passes')
+        print('you have used', passes, 'out of 5 passes')
     elif ans == 'hint' and hints == 0:
         print('your hint is that the first letter is', i[1][0],'you cannot pass')
         newans = input()
