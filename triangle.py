@@ -12,4 +12,4 @@ k = 20
 b = [[0]*41 for i in range(41)]
 for i in b:
     for a in range(len(i)):
-        print(b[i][a])
+        b[i][a]

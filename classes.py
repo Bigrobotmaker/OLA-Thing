@@ -7,3 +7,4 @@ class rectangle:
             print("#"*self.W)
     def widen(self,factor):
         self.W *= factor
+    
